@@ -1,4 +1,4 @@
-# 
+# updated CCleaner PC版 扩展 是最佳 CCleaner PC版 扩展，集成 Fancy Zones 和 Windows商店应用清理。安全、可靠、优化，性能最大化。
 
 
 
